@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ramailo/static/css/main.cde9b85b.css",
+    "main.js": "/ramailo/static/js/main.27b3f780.js",
+    "static/media/Header.jpg": "/ramailo/static/media/Header.bdb02960a0c137374374.jpg",
+    "static/media/a4.jpg": "/ramailo/static/media/a4.ee4dbd824fd678573b99.jpg",
+    "static/media/a2.png": "/ramailo/static/media/a2.eb124fd7ba768d918c0e.png",
+    "static/media/a1.png": "/ramailo/static/media/a1.c0227944387801370a2d.png",
+    "index.html": "/ramailo/index.html",
+    "main.cde9b85b.css.map": "/ramailo/static/css/main.cde9b85b.css.map",
+    "main.27b3f780.js.map": "/ramailo/static/js/main.27b3f780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde9b85b.css",
+    "static/js/main.27b3f780.js"
+  ]
+}
