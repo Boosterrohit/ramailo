@@ -1,0 +1,20 @@
+.rohit{
+    margin: auto;
+    max-width: 1000px;
+}
+.hest h1{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 32px;
+}
+
+.hest p{
+    text-align: center;
+}
+.hest .btn{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    margin-top: 33px;
+    margin-bottom: 10px;
+}
